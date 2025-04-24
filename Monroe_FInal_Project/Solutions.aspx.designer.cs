@@ -51,6 +51,15 @@ namespace Monroe_FInal_Project
         protected global::System.Web.UI.WebControls.Button CmdShowSolution68;
 
         /// <summary>
+        /// btnClear control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnClear;
+
+        /// <summary>
         /// lblProblem control.
         /// </summary>
         /// <remarks>

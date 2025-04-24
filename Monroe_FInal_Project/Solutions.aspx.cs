@@ -10,8 +10,8 @@ namespace Monroe_FInal_Project
 {
     public partial class Solutions : System.Web.UI.Page
     {
-        
-        
+
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -181,9 +181,15 @@ maxWidth = 20";
 
             return result;
         }
-    }
+    
+    protected void CmdClear_Click(object sender, EventArgs e)
+        {
+            lblProblem.Text = "";
+            litSolution.Text = "";
+            lblSolution.Text = "";
+        }
 
-
+    } 
 }
 
     

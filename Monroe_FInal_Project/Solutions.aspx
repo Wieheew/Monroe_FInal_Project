@@ -14,6 +14,7 @@ EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="a
             <asp:Button ID="CmdShowSolution753" runat="server" Text="Solution 753" OnClick="CmdShowSolution753_Click" />
             <asp:Button ID="CmdShowSolution123" runat="server" Text="Solution 123" OnClick="CmdShowSolution123_Click" />
             <asp:Button ID="CmdShowSolution68" runat="server" Text="Solution 68"  OnClick="CmdShowSolution68_Click"/>
+            <asp:Button ID="btnClear" runat="server" Text="Clear" OnClick="CmdClear_Click"/>
             <br /><br />
             <strong>Problem:</strong><br />
             <asp:Label ID="lblProblem" runat="server" Text="" />
