@@ -21,7 +21,7 @@ using System.Web;
 
 namespace Monroe_FInal_Project
 {
-    public class LeetCode_Problem_502
+    /*public class LeetCode_Problem_502
     {
         public int FindMaximizedCapital(int k, int w, int[] profits, int[] capital)
         {
@@ -61,5 +61,5 @@ namespace Monroe_FInal_Project
 
             return currentCapital;
         }
-    }
+    }*/
 }
